@@ -133,12 +133,14 @@ Os dados devem ser obtidos da API pública:
 - O carrinho mantém os produtos selecionados em estado global, permitindo adicionar, remover e alterar quantidades com feedback visual
 O fetch principal de dados ocorre sempre no servidor para garantir SSR real.
   
-[Adicione aqui uma descrição do funcionamento da aplicação, explicando como as funcionalidades são implementadas e como o usuário pode interagir com elas.]
+Para executar a aplicação, baixar o repositório para o computador local, acessar a pasta
+~/Teste-Tecnico-E-commerce-ksmn/novo-ecommerce-chopiscentis/chopis-centis e executar no terminal o comando npm run dev.
 
 ---
 
 ## 👤 Autor
 
-- Nome: [Seu nome]
-- GitHub: [link do GitHub]
-- LinkedIn: [link do LinkedIn]
+- Nome: [Icaro Luis Kossmann]
+- GitHub: [https://github.com/iksmn/Teste-Tecnico-E-commerce-ksmn#]
+            [https://iksmn.github.io/]
+- LinkedIn: [https://www.linkedin.com/in/icarokossmann/]
